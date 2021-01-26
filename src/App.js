@@ -1,6 +1,7 @@
 
 import './App.css';
 
+// BOOTSTRAP IMPORTS // 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -8,5 +9,6 @@ function App() {
    <h1>Hello!</h1>
   );
 }
+
 
 export default App;
